@@ -1,5 +1,7 @@
 # AI Interview Copilot 🚀
 
+**Live Application Demo**: [https://ai-interview-copilot-jet.vercel.app/](https://ai-interview-copilot-jet.vercel.app/)
+
 AI Interview Copilot is an immersive SaaS-like platform where candidate job seekers upload resumes, obtain ATS scorecards, optimize summarize statements, and face interactive mock interview rounds (incorporating Monaco coding boards, live visualizers, and Whisper speech transcribers).
 
 ---
